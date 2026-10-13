@@ -8,7 +8,7 @@ Uma aplicação simples e funcional de **Lista de Tarefas** desenvolvida com tec
 *   **CSS3:** Layout flexível (`Flexbox`), estilização de componentes visuais e seletores avançados como `:checked + label` para o efeito de rasurado.
 *   **JavaScript (ES6):** Manipulação dinâmica de elementos, captura de eventos de formulário e validação de dados.
 
-## ⚙️ Funcionalidades Corrigidas e Implementadas
+##  Funcionalidades Corrigidas e Implementadas
 
 Durante o desenvolvimento do projeto, os seguintes pontos foram refinados para garantir o funcionamento correto:
 1.  **Sincronização de Containers:** Integração entre o elemento `#tasks` no HTML e a captura via JavaScript.
@@ -51,8 +51,5 @@ function addTask(description) {
 }
 ```
 
-## 🎯 Próximos Passos (Melhorias Futuras)
-* [ ] Implementar geração de IDs únicos baseados em data/hora para evitar conflitos de nomes duplicados.
-* [ ] Adicionar botão para exclusão individual de tarefas.
-* [ ] Persistir os dados no navegador utilizando a API `localStorage`.
+
 
